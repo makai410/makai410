@@ -7,7 +7,7 @@ src="https://shields.io/badge/-systems-black?style=for-the-badge"
 alt="Systems"><img
 src="https://img.shields.io/badge/Manjaro-39474F?style=for-the-badge&logo=manjaro&logoColor=59BDA4"
 alt="manjaro"/><img
-src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+src="https://img.shields.io/badge/Android-259156?style=for-the-badge&logo=android&logoColor=white"
 alt="android">
 </p>
 
