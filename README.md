@@ -31,10 +31,10 @@ alt="Rust">
 <!-- stats -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
 <p align="center">
-<img width="60%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glut410&theme=nord_dark" />
-<img width="30%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glut410&theme=nord_dark" />
-<img width="30%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glut410&theme=nord_dark" />
-<img width="30%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=glut410&theme=nord_dark" />
-<img width="30%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glut410&theme=nord_dark&utcOffset=8" />
+<img width="60%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makai410&theme=nord_dark" />
+<img width="30%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makai410&theme=nord_dark" />
+<img width="30%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makai410&theme=nord_dark" />
+<img width="30%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=makai410&theme=nord_dark" />
+<img width="30%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makai410&theme=nord_dark&utcOffset=8" />
 </p>
 </a>
