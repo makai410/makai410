@@ -1,7 +1,3 @@
-# SHOUT-OUT to
-[**戒野美咲**](https://github.com/ImashinoMisaki)
----
-
 Makai (MAH-kah-ee)
 - he/him
 
@@ -9,4 +5,5 @@ I write code to the Rust compiler, currently working on [StableMIR](https://gith
 
 If you'd like to support my work, feel free to reach out at `m4kai410@gmail.com` or check out [my Afdian page](https://afdian.com/a/makai410).
 
-I appreciate it! <3
+Sponsors (in no particular order):
+- [戒野美咲](https://github.com/ImashinoMisaki)
