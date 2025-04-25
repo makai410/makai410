@@ -1,3 +1,7 @@
+# SHOUT-OUT to
+[**戒野美咲**](https://github.com/ImashinoMisaki)
+---
+
 Makai (MAH-kah-ee)
 - he/him
 
