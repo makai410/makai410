@@ -5,5 +5,5 @@ I write code to the Rust compiler, currently working on [StableMIR](https://gith
 
 If you'd like to support my work, feel free to reach out at `m4kai410@gmail.com` or check out [my Afdian page](https://afdian.com/a/makai410).
 
-Sponsors (in no particular order):
+Sponsors:
 - [戒野美咲](https://github.com/ImashinoMisaki)
