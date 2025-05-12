@@ -1,4 +1,4 @@
-Makai (MAH-kah-ee)
+Makai (pronounced MAH-kah-ee or muh-KAI - both work!^^)
 - he/him
 
 I write code for the Rust compiler, currently working on [StableMIR](https://github.com/rust-lang/project-stable-mir).
